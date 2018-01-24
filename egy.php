@@ -1,5 +1,5 @@
 <?php
 
-echo "Valami php";
+echo "egy";
 
 ?>
