@@ -1,5 +1,5 @@
 <?php
 
-echo "Teszt git";
+echo "ketto";
 
 ?>
